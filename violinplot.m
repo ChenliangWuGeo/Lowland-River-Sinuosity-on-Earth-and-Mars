@@ -1,5 +1,4 @@
-%Holger Hoffmann (2023). Violin Plot (https://www.mathworks.com/matlabcentral/fileexchange/45134-violin-plot), MATLAB Central File Exchange. Retrieved March 19, 2023.
-%https://www.mathworks.com/matlabcentral/fileexchange/45134-violin-plot?s_tid=srchtitle
+%https://github.com/bastibe/Violinplot-Matlab
 function violins = violinplot(data, cats, varargin)
 %Violinplots plots violin plots of some data and categories
 %   VIOLINPLOT(DATA) plots a violin of a double vector DATA
